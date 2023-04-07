@@ -2,6 +2,9 @@
 
 This is the Battleships game. It is a web application that is built using the [React](https://reactjs.org/) framework for the client and the [Express](https://expressjs.com/) framework for the server.
 
+[Server Repository](https://github.com/Kariem816/Battleships-Server)
+[Client Repository](https://github.com/Kariem816/Battleships-Client)
+
 ## Getting Started
 
 ### Prerequisites
